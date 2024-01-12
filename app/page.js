@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { NavbarMain } from './navbar'; 
-import ThreeColumnGrid from './cardGrid';
+import ThreeColumnGrid from './CardGrid';
 
 
 
